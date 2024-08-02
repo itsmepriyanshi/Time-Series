@@ -1,0 +1,7 @@
+2024-08-02 16:03:47,278 - INFO - Starting main execution
+2024-08-02 16:03:47,332 - INFO - Data loaded successfully
+2024-08-02 16:03:47,334 - INFO - Data preparation completed
+2024-08-02 16:03:52,464 - INFO - Visualization completed
+2024-08-02 16:03:52,662 - INFO - ARIMA model training completed
+2024-08-02 16:03:52,751 - INFO - ARIMAX model training completed
+2024-08-02 16:03:52,751 - INFO - ARIMA Model MAE: 19.921798104901356
